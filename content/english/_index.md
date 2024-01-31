@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Eclate project. Best consulting ever."
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Services that Propels Growth"
+  content: "We all are writing our own stories. Let us help you write one that will last. Éclate Technologies help create long-lasting business solutions. We provide practical, solution-oriented, business tools and services. We design and create data-driven, client- centered technologies that drive growth."
   image: "/images/banner.png"
   button:
     enable: true
