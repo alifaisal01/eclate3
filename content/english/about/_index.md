@@ -1,6 +1,6 @@
 ---
 title: "Not all IT solutions require big investments"
-meta_title: "About Us"
+meta_title: "About us"
 description: "We provide creative IT solutions to your complex and unique needs, based on your budget"
 image: "/images/avatar.png"
 draft: false
@@ -17,7 +17,7 @@ If you are a startup, local shop, or a non-profit, social services endeavor, you
 
 # Humaira Zafar
 
-![Humaira](/images/client/humaira.png)
+![Humaira](/images/humaira.png)
 
 
 Humaira is a software developer and technology enthusiast, with a passion for digital equity. Humaira developed multiple applications using front and backend technologies. Humaira has worked on cloud-based technologies, and is an avid learner and enthusiast of the latest front-end frameworks. Humaira brings with her 15 years of community and workforce development experience.
