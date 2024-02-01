@@ -6,7 +6,7 @@ date: 2022-04-04T05:30:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 author: "Humaira"
-tags: ["Development"]
+tags: ["Web and Mobile Application Development"]
 draft: false
 ---
 
