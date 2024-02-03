@@ -18,8 +18,10 @@ weight = 3
 
 [[main]]
 name = "Our Blog"
-url = "our-blog/"
+url = "blog/"
 weight = 4
+
+
 
 
 # footer menu
