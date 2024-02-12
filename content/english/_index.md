@@ -1,19 +1,11 @@
 ---
-# Banner
-banner:
-  title: "Services that Propels Growth"
-  content: "We all are writing our own stories. Let us help you write one that will last. Éclate Technologies help create long-lasting business solutions. We provide practical, solution-oriented, business tools and services. We design and create data-driven, client- centered technologies that drive growth."
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+
 
 # Features
 features:
-  - title: "Our Services"
-    image: "/images/service-1.png"
-    content: "At Eclate we provide wide range of technology services. From Technology design and delivery, Business process automation, Resource augmentation to Infrastructure and cloud setup"
+  - title: "Services that Propels Growth"
+    image: "/images/feature img.jpg"
+    content: "We all are writing our own stories. Let us help you write one that will last. Éclate Technologies help create long-lasting business solutions. We provide practical, solution-oriented, business tools and services. We design and create data-driven, client- centered technologies that drive growth."
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
@@ -26,9 +18,9 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Our Services"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "At Eclate we provide wide range of technology services. From Technology design and delivery, Business process automation, Resource augmentation to Infrastructure and cloud setup:"
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
